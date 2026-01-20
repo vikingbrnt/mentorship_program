@@ -67,6 +67,12 @@ nav a:hover {
     background-color: #4338ca;
 }
 
+.hero #quote {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+}
+
 /* ===== SERVICES SECTION ===== */
 .services {
     padding: 50px 20px;
