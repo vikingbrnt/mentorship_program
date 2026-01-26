@@ -1,10 +1,10 @@
 :root {
-  --primary-color: #3498db;
-  --secondary-color: #3498db;
+  --primary-color: #D1E9F6;
+  --secondary-color: #ebcdb4;
   --font-main: "Times New Roman", Times, serif;
-  --bg-color: #ffffff;
-  --font-color: #333333;
-  --heading-color: #292922;
+  --bg-color: #F9FAFB;
+  --font-color: #984fe5;
+  --heading-color: #fa66ba;
 }
 /* ===== RESET & BASIC STYLES ===== */
 body {
